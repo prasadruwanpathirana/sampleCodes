@@ -26,4 +26,5 @@
       
     angular.module('MyApp.services', []);
     angular.module('MyApp.controllers', []);
+	
 }());
